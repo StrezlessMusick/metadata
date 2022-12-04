@@ -17,13 +17,6 @@
       "format": "hosts"
     }
   ],
-  "sanitizers": [
-    "iana-tlds",
-    "url-shorteners",
-    "bin-hostnames",
-    "bin-domains",
-    "ddns"
-  ],
   "exclusions": [
     "*.anonym.to",
     "*.applovin.com",
@@ -52,7 +45,7 @@
     "*.x-diesel.com",
     "*.zaobao.com.sg"
   ],
-  "inclusions": [
+  "additions": [
     "awemdia.com",
     "babes.com",
     "hotgaylist.com",

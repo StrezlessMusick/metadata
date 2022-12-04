@@ -13,13 +13,6 @@
       "format": "hosts"
     }
   ],
-  "sanitizers": [
-    "iana-tlds",
-    "url-shorteners",
-    "bin-hostnames",
-    "bin-domains",
-    "ddns"
-  ],
   "exclusions": [
     "*.cloud.answerhub.com",
     "*.gov",
